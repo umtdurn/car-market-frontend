@@ -1,0 +1,29 @@
+html, body {
+    background-color: #394867;
+    margin: 0;
+}
+
+#header {
+    width: 100%;
+    display: flex;
+    position: fixed;
+}
+
+#div-logo {
+    width: 30%;
+    text-align: center;
+}
+
+#logo {
+    width: 20%;
+}
+
+#menu {
+    width: 70%;
+}
+
+#menu-item {
+    display: inline;
+    padding: 0px 15px;
+}
+
